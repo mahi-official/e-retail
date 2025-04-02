@@ -59,7 +59,7 @@ python -m venv retail_venv
         npm start
         ```
     Your Website is up now!
-    You can view the contents at **`http://localhost:3000`**
+    You can view the contents at `http://localhost:3000`
 
 # Contributing
 We are working on integrating multiple functionalities. If you want to contribute to it, please fork the development branch and create a pull request with changes.
